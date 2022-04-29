@@ -36,34 +36,6 @@
 
 ---
 
-## :octocat: [AMA - Ask Me Anything](https://github.com/vumdao/vumdao/discussions/categories/ama-ask-me-anything)
-
----
-
-## Latest published on [Dev.to](https://dev.to/vumdao)
-<!-- DEVTO_LIST:START -->
-- [Troubleshoot Karpenter Node](https://dev.to/aws-builders/troubleshoot-karpenter-node-44p0)
-- [Karpenter with AWS Node Termination Handler](https://dev.to/aws-builders/karpenter-with-aws-node-termination-handler-149d)
-- [AWS Karpenter Hands-on](https://dev.to/aws-builders/aws-karpenter-hands-on-custom-resources-1am9)
-- [Use CDK8S To Create AWS Controllers for Kubernetes Custom Resources](https://dev.to/aws-builders/use-cdk8s-to-create-aws-controllers-for-kubernetes-custom-resources-4542)
-- [AWS Controllers for Kubernetes Hands-on](https://dev.to/aws-builders/aws-controllers-for-kubernetes-hands-on-2d70)
-- [Correlate Security Findings With AWS Security Hub and Amazon EventBridge](https://dev.to/aws-builders/correlate-security-findings-with-aws-security-hub-and-amazon-eventbridge-1hal)
-- [AWS BottleRocket On EKS NodeGroup](https://dev.to/aws-builders/aws-bottlerocket-on-eks-nodegroup-45ec)
-- [Apache Airflow In EKS Cluster](https://dev.to/aws-builders/apache-airflow-in-eks-cluster-dgo)
-- [Understand Pods communication](https://dev.to/aws-builders/understand-pods-communication-338c)
-- [EC2 Spot Interruptions - AWS Fault Injection Simulator](https://dev.to/aws-builders/ec2-spot-interruptions-aws-fault-injection-simulator-31i2)
-<!-- DEVTO_LIST:END -->
-
----
-
-## 📈 GitHub Stats  ![Profile views](https://komarev.com/ghpvc/?username=vumdao&color=blueviolet)
-![Vu Dao's GitHub stats](https://github-readme-stats.vercel.app/api?username=vumdao&theme=blue-green&show_icons=true&line_height=27&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vumdao&theme=blue-green&langs_count=3)
-![Vu Dao's github streak](https://github-readme-streak-stats.herokuapp.com/?user=vumdao&theme=blue-green)
-
-
----
-
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/57112545/111080199-5fa60f00-8523-11eb-85ea-5262e89445b0.jpg">
     <img align="left" alt="working" src="https://user-images.githubusercontent.com/57112545/111080199-5fa60f00-8523-11eb-85ea-5262e89445b0.jpg" width="350" height="350" style="max-width:100%;">
     <img align='right' src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" height="300" width="320">
