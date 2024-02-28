@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M3LMOTH <img src="https://github.com/vumdao/vumdao/blob/master/logo.png?raw=true" width="50px"></h1>
-<h2 align="center"><b>🚀 SecOps | AWS Community | FEDORA infra team || ☁️ Semji R&D ☁️</b></h2>
+<h2 align="center"><b>🚀 SecOps | AWS Community | FEDORA infra team </b></h2>
 
 ---
 
