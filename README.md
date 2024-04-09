@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,</h1>
-<h2 align="center"><b>🚀 SecOps | AWS Community | FEDORA infra team </b></h2>
+<h2 align="center"><b>🚀 DevSecOps | SRE | FEDORA </b></h2>
 
 ---
 
@@ -11,7 +11,7 @@
 
 - 🔭 ** Ops Engineer**
 
-- 💬 Ask me about **AWS, Linux, K8, Security**
+- 💬 Ask me about **AWS, Linux, K8, Security, Observability, DevSecOps**
 
 - 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/garciapaco/)
 
