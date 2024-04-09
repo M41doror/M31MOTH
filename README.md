@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, <img src="https://github.com/vumdao/vumdao/blob/master/logo.png?raw=true" width="50px"></h1>
+<h1 align="center">Hi 👋,</h1>
 <h2 align="center"><b>🚀 SecOps | AWS Community | FEDORA infra team </b></h2>
 
 ---
